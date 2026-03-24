@@ -11,13 +11,19 @@ Multiple users can chat simultaneously in their browser.
 ## 🚀 How to Run
 
 1. Clone the repo
-   git clone https://github.com/your-username/chat-app.git
+```
+git clone https://github.com/your-username/chat-app.git
+```
 
 2. Install dependencies
-   npm install
+```
+npm install
+```
 
 3. Start the server
-   npm start
+```
+npm start
+```
 
 4. Open http://localhost:3000 in multiple tabs and start chatting!
 
@@ -26,13 +32,8 @@ Multiple users can chat simultaneously in their browser.
 - Multiple users supported
 - Username support
 - Timestamps on messages
-```
 
----
-
-## ✅ 5. Final folder structure check
-
-Your project should look like this:
+## 📁 Project Structure
 ```
 chat-app/
 ├── public/
@@ -42,3 +43,10 @@ chat-app/
 ├── package.json
 ├── README.md
 └── server.js
+```
+
+## 📚 Concepts Used
+- Event-driven architecture
+- Real-time communication via WebSockets
+- Client-server model
+- Broadcasting messages to all connected clients
