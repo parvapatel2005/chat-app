@@ -12,7 +12,7 @@ Multiple users can chat simultaneously in their browser.
 
 1. Clone the repo
 ```
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/parvapatel2005/chat-app.git
 ```
 
 2. Install dependencies
